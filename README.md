@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Yukta 👋  
+💻 Full Stack Developer | Java Spring Boot • ReactJS • MySQL • REST APIs  
+📍 Pune, India  
 
-<!--
-**yuktabhalekar/yuktabhalekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building **scalable, clean, and user-friendly web applications**.  
+Currently exploring new things to take my projects to the next level 🚀.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript, SQL,C, C++ 
+- **Backend:** Spring Boot, Node.js, REST APIs  
+- **Frontend:** ReactJS, HTML5, CSS3
+- **Database:** MySQL
+- **Tools & Others:** Git, GitHub  
+
+---
+
+## 📌 Featured Projects
+🌟 *My best work pinned here for quick access:*  
+
+- [🔗 Product Catalog](https://github.com/yuktabhalekar/product-catalog)  
+  *Full-stack Spring Boot + React app with category/product management.*  
+
+- [🔗 CodeFuse](https://github.com/yuktabhalekar/CodeFuse)  
+  *Real-time collaborative code editor with WebSockets.*  
+
+- [🔗 Expense Tracker](https://github.com/yuktabhalekar/Expense_Tracker)  
+  *Personal finance tracker with analytics dashboard.*  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yukta-bhalekar/)  
+- ✉️ Email: yuktabhalekar@gmail.com
+
